@@ -2,17 +2,16 @@
 <html>
 
 <head>
-   <?php
-   require_once 'view/head.php';
-   ?>
+<?php
+    require_once 'view/head.php';
+ ?>
 </head>
 
-    <body>
+<body>
+<?php
+    require_once 'view/nav.php';
+ ?>  
 
-        <?php
-        require_once 'view/nav.php';
-        ?>
-        
-    </body>
+</body>
 
 </html>
